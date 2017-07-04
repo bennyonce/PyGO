@@ -1,0 +1,10 @@
+1:test1
+2:line2
+3:line3
+4:line4:test
+(tttt)
+5:noptest
+2:line2 test2
+2:line2 test space;
+2:line2 space gogogo
+2:line2
